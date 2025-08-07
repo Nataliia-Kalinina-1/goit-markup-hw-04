@@ -283,9 +283,8 @@ button:focus {
   padding: 0px 0px 32px 0px;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
   border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
 }
 
 .team-name-position {
@@ -440,8 +439,6 @@ button:focus {
 }
 .footer-social-links {
   margin-bottom: 100px;
-  margin-bottom: 132px;
-  margin-left: 120px;
 }
 
 .footer-social-text {
